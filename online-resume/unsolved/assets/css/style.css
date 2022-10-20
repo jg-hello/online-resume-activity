@@ -1,5 +1,31 @@
 /* remove this code and add your own! */
 .greeting {
-  color: green;
-  font-size: 30px;
+ 
+}
+.about_me{
+
+}
+.about{
+ 
+}
+.profpic{
+  width: 150px;
+  margin: auto;
+  display: block;
+  border: 2px dashed maroon;
+  border-radius: 30px;
+  top: 30px;
+  }
+
+span{
+ 
+}
+.contact_img{
+
+}
+.experience{
+ 
+}
+.name{
+ 
 }
