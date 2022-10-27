@@ -17,3 +17,7 @@ body{
 p{
   font-weight: 400;
 } 
+img{
+  width: 200px;
+  height: 200px;
+}
